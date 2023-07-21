@@ -1,1 +1,2 @@
-microservice-one.value=99
+microservice-one:
+  value: 99
